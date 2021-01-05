@@ -1,11 +1,18 @@
 {
   "logs": [
     {
+      "id": 2,
       "message": "so this is it",
+      "attention": false,
+      "tech": "Karen Doe",
+      "date": "2021-01-05T15:31:23.149Z"
+    },
+    {
+      "id": 3,
+      "message": "otro mas",
       "attention": true,
       "tech": "David Doe",
-      "date": "2021-01-05T14:57:59.106Z",
-      "id": 2
+      "date": "2021-01-05T15:31:13.230Z"
     }
   ],
   "techs": [
