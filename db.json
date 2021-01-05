@@ -1,17 +1,10 @@
 {
   "logs": [
     {
-      "message": "lol",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2021-01-05T01:30:17.270Z",
-      "id": 1
-    },
-    {
-      "message": "smt rare happendef",
+      "message": "so this is it",
       "attention": true,
       "tech": "David Doe",
-      "date": "2021-01-05T01:30:37.386Z",
+      "date": "2021-01-05T14:57:59.106Z",
       "id": 2
     }
   ],
