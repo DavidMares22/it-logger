@@ -2,17 +2,31 @@
   "logs": [
     {
       "id": 2,
-      "message": "so this is it",
+      "message": "so this is it now",
       "attention": false,
-      "tech": "Karen Doe",
-      "date": "2021-01-05T15:31:23.149Z"
+      "tech": "Carmen Ornelas",
+      "date": "2021-01-07T19:42:54.355Z"
     },
     {
       "id": 3,
       "message": "otro mas",
       "attention": true,
+      "tech": "Karen Doe",
+      "date": "2021-01-07T19:15:55.009Z"
+    },
+    {
+      "message": "fixed the pc",
+      "attention": true,
       "tech": "David Doe",
-      "date": "2021-01-05T15:31:13.230Z"
+      "date": "2021-01-07T19:15:27.833Z",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "message": "Fix the printer #0002",
+      "attention": false,
+      "tech": "Andres Perez",
+      "date": "2021-01-07T19:38:19.863Z"
     }
   ],
   "techs": [
@@ -35,6 +49,16 @@
       "firstName": "Alina",
       "lasName": "Bonita",
       "id": 4
+    },
+    {
+      "firstName": "Andres",
+      "lastName": "Perez",
+      "id": 5
+    },
+    {
+      "firstName": "Carmen",
+      "lastName": "Ornelas",
+      "id": 6
     }
   ]
 }
